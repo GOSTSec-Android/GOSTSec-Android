@@ -1,2 +1,2 @@
-# GOSTDASH
-A central umbrella repository for GOSTDASH organization.
+# GOSTSec-Android
+A central umbrella repository for GOSTSec-Android organization.
